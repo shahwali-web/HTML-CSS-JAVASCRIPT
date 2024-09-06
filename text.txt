@@ -1,0 +1,130 @@
+
+
+colors
+
+color: #3e3e3e  
+
+color: #3be2ab;
+
+
+----------------------------------------------------
+header title
+-----------------
+continue to fly
+--------------------------------------------------
+header text
+--------------------
+Lorem ipsum dolor sit amet consectetur adipisicing elit. In error molestiae a illo blanditiis voluptate.
+
+
+
+------------------------------------------------------
+btn
+-----------
+Lorem ipsum sit
+------------------------------------------------------
+
+
+                                        2 section
+
+--------------------------------------------------------------------------------------------------------------------------------
+
+title
+-----
+best travels
+----------------------------------------------------------
+travel-title
+------
+greatest travel experiences 
+----------------------------
+
+Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                    Exercitationem eligendi consequatur et vel voluptatibus aperiam.
+
+
+Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                    Exercitationem eligendi consequatur et vel voluptatibus aperiam.
+
+
+Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                    Exercitationem eligendi consequatur et vel voluptatibus aperiam.
+
+-----------------------
+btn
+----
+Read More
+
+--------------------------
+
+
+
+------------------------------------------------------------------- 3rd Section ------------------------------------------
+
+title
+----
+our services
+-----------------------------
+
+service-title
+------
+Visas | Passport
+
+------------------------------
+
+service-text
+-----------
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat asperiores
+                        aliquam dolorem, molestiae impedit numquam?
+
+------------------------------------------------------------------------------ 4th Section --------------------------------------------
+title
+-----
+features tours
+-----------------------------
+date
+----
+april 24th 2020
+-----------------------------
+feature title
+-----
+green and clean
+
+---------------------------
+feature info
+----
+pakistan
+---------------------------
+  From $190
+--------------------------
+feature text
+----------
+  Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit, labore?
+---------------------------------------------------------------------------
+
+btn
+----
+all travels
+--------------------
+
+
+
+-------------------------------------------------------------------------------- 5th Section -------------------------------------------------
+
+
+-------------------------------------------------------------------------------- 6th Section --------------------------------------------------
+
+title
+-----
+our gallery
+-----------------------------
+
+-------------------------------------------------------------------------------- 7th Section ------------------------------------------------
+
+ copyright &copy; Shahwali Web travel tours company 2020
+
+
+
+
+
+
+
